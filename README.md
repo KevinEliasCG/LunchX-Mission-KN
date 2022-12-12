@@ -19,7 +19,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-*** comentado code
+<!-- comentado code -->
 <!--[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -28,6 +28,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]-->
 
 
+<!-- Titulo readme -->
+## Practicas Lunch-X Kevin C.G
 
 <!-- PROJECT LOGO -->
 <br />
