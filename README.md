@@ -1,2 +1,2 @@
-# PracticasLunchXKevinCG
- Practicas proyecto Lunch-X Kevin Correa
+# Practicas Lunch-X Kevin C.G.
+ 
