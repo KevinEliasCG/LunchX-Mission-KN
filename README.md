@@ -42,15 +42,16 @@
 
   <p align="center">
     An awesome README template to jumpstart your projects!
+    <!--<br />
+     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <br />-->
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/othneildrew/Best-README-Template">Ver Demo</a>
+    <!--
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>-->
   </p>
 </div>
 
@@ -85,7 +86,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Acerca del proyecto como practica
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -122,7 +123,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+<!--## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
@@ -156,9 +157,9 @@ _Below is an example of how you can instruct your audience on installing and set
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
+-->
 <!-- USAGE EXAMPLES -->
-## Usage
+<!--## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -167,8 +168,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
+-->
 <!-- ROADMAP -->
+<!--
 ## Roadmap
 
 - [x] Add Changelog
@@ -184,8 +186,9 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
+-->
 <!-- CONTRIBUTING -->
+<!--
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -202,8 +205,9 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
+-->
 <!-- LICENSE -->
+<!--
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
@@ -211,8 +215,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
+-->
 <!-- CONTACT -->
+<!-- 
 ## Contact
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
@@ -222,8 +227,9 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
+-->
 <!-- ACKNOWLEDGMENTS -->
+<!--
 ## Acknowledgments
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
@@ -240,9 +246,10 @@ Use this space to list resources you find helpful and would like to give credit 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
+-->
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!-- 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
@@ -272,3 +279,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+
+-->
