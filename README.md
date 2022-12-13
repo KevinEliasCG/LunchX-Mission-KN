@@ -29,7 +29,7 @@
 
 
 <!-- Titulo readme -->
-## Practicas Lunch-X Kevin C.G
+## Practicas Lunch-X Kevin C.G.
 
 <!-- PROJECT LOGO -->
 <br />
