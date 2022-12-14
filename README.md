@@ -61,9 +61,12 @@
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Tabla de documentacion</summary>
+  <br /> 
   <ol>
     <li>
-      <a href="#">Introducción a la programación FrontEnd</a>
+      <!--<a href="#">Introducción a la programación FrontEnd</a>-->
+      - **Introducción a la programación FrontEnd**
+       <br /> 
       <ul>
         <li><a href="#">Toma de requerimientos</a></li>
         <li><a href="#">Crea tu buyer persona</a></li>
