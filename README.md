@@ -63,9 +63,13 @@
   <summary>Tabla de documentacion</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#">Introducción a la programación FrontEnd</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#">Toma de requerimientos</a></li>
+        <li><a href="#">Crea tu buyer persona</a></li>
+        <li><a href="#">Publico objetivo</a></li>
+        <li><a href="#">Crea tu primer Wireframe UX</a></li>
+        <li><a href="#">Ahora el UI</a></li>
       </ul>
     </li>
     <li>
