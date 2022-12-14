@@ -190,7 +190,8 @@ Descripción:
     <tr>
         <td colspan=1><b>Viabilidad Técnica</b></td>
         <td colspan=3>
-            Luego de adelantado el análisis de los requisitos y requerimientos es proponer una solución técnica para esta solicitud: <b>SI (X)</b> NO ().
+            <!--Luego de adelantado el análisis de los requisitos y requerimientos es proponer una solución técnica para esta solicitud: <b>SI (X)</b> NO ().-->
+            Se acepta viabilidad al especificar y aprobar inicio y fin del proyecto basado en los requerimientos, requesitos, capital humano, costo, tiempo y tecnologia necesarios para su cumplimiento.
         </td>
     </tr>
 </table>
