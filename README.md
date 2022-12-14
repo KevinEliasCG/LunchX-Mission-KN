@@ -87,7 +87,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Acerca del proyecto como practica
+<!--## Acerca del proyecto como practica
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -122,7 +122,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
+-->
 <!-- GETTING STARTED -->
 <!--## Getting Started
 
