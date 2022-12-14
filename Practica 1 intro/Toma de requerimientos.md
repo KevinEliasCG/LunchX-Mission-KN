@@ -1,5 +1,31 @@
 # Toma de Requerimientos
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Caso: Abogabot**
+Descripción:
+
+1- Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web llenando un formulario.
+<br/>
+2- Al momento de llenar el formulario se manda al proceso de pago para finalizar la transacción.
+<br/>
+3- Para dar seguimiento a su demanda, el cliente crea una cuenta en la plataforma y verá el seguimiento de cada una de las actualizaciones del proceso legal.
+<br/>
+4- El administrador del sitio recbe la notificación de una nueva demanda y con los datos llenados del formulario se crea automaticamente el documento legal en formato word para empezar el proceso.
+<br/>
+5- El administrador recibe el pago y debe de ser capaz de verlo en un dashboard para ver la cantidad de ingresos recibidos.
+<br/>
+6- El administrador actualiza el proceso de la demanda y agrega comentarios en cada paso del proceso.
+<br/>
+7- Al usuario le llegan correos de notificación para saber el avance de su proceso.
+<br/>
+8- La página debe de ser responsive para poderla ver desde el celular.
+<br/>
+9- La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ## 1. Descripción General del Requerimiento
 
 <table>
@@ -9,23 +35,23 @@
     </tr>
     <tr>
         <th>Nombre Requerimiento: </th>
-        <td>Abogabot</td>
+        <td>-</td>
     </tr>
     <tr>
         <th>Fecha Solicitud: </th>
-        <td>21/02/2022</td>
+        <td>07/11/2022</td>
     </tr>
     <tr>
         <th>Responsable(s) Solicitud: </th>
-        <td>LaunchX</td>
+        <td>Launch-X</td>
     </tr>
     <tr>
         <th>Dependencia(s) Solicitante: </th>
-        <td>LaunchX - Frontend Mission</td>
+        <td>Launch-X</td>
     </tr>
     <tr>
         <th>Responsable Funcional designado por el equipo de desarrollo de software: </th>
-        <td>Emilio Alejandro</td>
+        <td>Kevin Correa</td>
     </tr>
 </table>
 
@@ -54,17 +80,6 @@
         </td>
     </tr>
     <tr>
-        <td><b>Lider Funcional</b></td>
-    </tr>
-    <tr>
-        <td>
-            <p>El cliente solicita una plataforma que permita la automatización de los procesos de comunicación con el cliente para el momento de generar una nueva demanda como de darle seguimiento.</p>
-            <p>Todo cliente que quiera registrar una demanda deberá registrarse en la plataforma, por lo que se requiere un formulario de registro y uno de inicio de sesión. Cuando el cliente desee crear una demanda, deberá llenar un formulario que proporcionará la información requerida del caso a los abogados. Una vez llenado el formulario se mostrará una pantalla de pago, el cliente colocará los datos de pago para efectuar la transacción. Una vez realizado el pago, desde la cuenta del cliente podrá dar seguimiento a su caso, aquí se desplegará una pantalla en específico para el caso, mostrando detalles como nombre del caso, actualizaciones y fecha de actualización de cada paso del proceso legal.</p>
-            <p>Cuando un cliente realiza una transacción el administrador del sitio recibe una notificación, la cual al acceder a ella despliega los datos proporcionados por el cliente en el formulario, además tendrá a su disposición la descarga de un documento de <i>Word</i> con los datos recibidos del formulario para crear un formato legal y dar inicio al proceso. Desde ésta página el administrador podrá generar actualizaciones del caso para que el cliente pueda visualizarlas en la página de seguimiento correspondiente. Cada vez que se realicen actualizaciones sobre el proceso del caso, la plataforma enviará notificaciones vía <i>e-mail</i> al cliente del caso correspondiente.</p>
-            <p>El administrador del sitio tiene a su disposición un <i>dashboard</i> que permite ver los pagos recibidos mediante una gráfica y una tabla que incluye la información de fecha y hora del pago, ID del caso al que corresponde y link para acceder al caso.</p>
-            <p>En cuanto al diseño el cliente solicita que sea responsive para poder visualizarse desde dispositivos móviles y que de preferencia se utilicen tonalidades de colores relacionadas al Azul Marino y blanco, sin embargo el cliente muestra apertura a nuevas propuestas de colores.</p>
-        </td>
-    </tr>
 </table>
 
 ## 3. Análisis de requisitos y requerimientos
@@ -72,16 +87,17 @@
 <table>
     <tr>
         <td><b>Fecha Inicio</b></td>
-        <td>01/03/2022</td>
+        <td>07/12/2022</td>
         <td><b>Fecha Final</b></td>
-        <td>10/08/2022</td>
+        <td>13/12/2022</td>
     </tr>
     <tr>
         <td colspan=4><b>Modelamiento de Negocio</b></td>
     </tr>
     <tr>
         <td colspan=4>
-            <img src="">
+            <!-- <img src=""> -->
+            ---
             <p>(Diagrama del modelamiento del negocio)</p>
         </td>
     </tr>
@@ -176,227 +192,5 @@
         <td colspan=3>
             Luego de adelantado el análisis de los requisitos y requerimientos es proponer una solución técnica para esta solicitud: <b>SI (X)</b> NO ().
         </td>
-    </tr>
-</table>
-
-## 4. Fase de Planeación y Gerencia del Proyeto
-
-<table>
-    <tr>
-        <td colspan=2><b>Responsable</b></td>
-        <td colspan=2>Emilio Alejandro </td>
-        <td colspan=2><b>Fecha</b></td>
-        <td colspan=1>25/02/2022</td>
-    </tr>
-    <tr>
-        <td colspan=7><b>Plan estratégico de fases del proyecto</b></td>
-    </tr>
-    <tr>
-        <td><b>N°</b></td>
-        <td><b>Nombre Etapa</b></td>
-        <td><b>Actividad</b></td>
-        <td><b>Rol Responsable</b></td>
-        <td><b>Fecha Inicio</b></td>
-        <td><b>Fecha Fin</b></td>
-        <td><b>Comentarios</b></td>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td>Solicitud</td>
-        <td>Se realiza la toma de requerimientos y se genera una cotización para el cliente.</td>
-        <td>PM</td>
-        <td>25/02/2022</td>
-        <td>28/02/2022</td>
-        <td> - </td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>Inicio</td>
-        <td>Una vez autorizado y realizado el pago solicitado, se selecciona los miembros del equipo que participarán.</td>
-        <td>PM</td>
-        <td>01/03/2022</td>
-        <td>05/03/2022</td>
-        <td> - </td>
-    </tr>
-    <tr>
-        <td>3</td>
-        <td>Planificación</td>
-        <td>Se planifica como se debe "repartir" el proyecto entre los miembros del equipo. Se crean los diagramas y prototipos necesarios, entre ellos las pantallas, diseños UML, bases de datos, etc.</td>
-        <td>PM</td>
-        <td>06/03/2022</td>
-        <td>30/03/2022</td>
-        <td> - </td>
-    </tr>
-    <tr>
-        <td>4</td>
-        <td>Ejecución</td>
-        <td>Los miembros del equipo empiezan a ejecutar las actividades asignadas en la planificación.</td>
-        <td>PM</td>
-        <td>01/04/2022</td>
-        <td>30/05/2022</td>
-        <td> - </td>
-    </tr>
-    <tr>
-        <td>5</td>
-        <td>Pruebas</td>
-        <td>Se realizan las pruebas para probar la plataforma desarrollada. Se buscan y detectan errores.</td>
-        <td>PM</td>
-        <td>01/06/2022</td>
-        <td>10/05/2022</td>
-        <td> - </td>
-    </tr>
-    <tr>
-        <td>6</td>
-        <td>Solución de errores</td>
-        <td>Se de solución a los bugs detectados.</td>
-        <td>PM</td>
-        <td>11/06/2022</td>
-        <td>25/06/2022</td>
-        <td> - </td>
-    </tr>
-    <tr>
-        <td>7</td>
-        <td>Pruebas</td>
-        <td>Se vuelven a realizar pruebas.</td>
-        <td>PM</td>
-        <td>01/07/2022</td>
-        <td>05/07/2022</td>
-        <td> - </td>
-    </tr>
-    <tr>
-        <td>8</td>
-        <td>Solución de errores</td>
-        <td>Se da solución a los errores encontrados en la etapa de pruebas más reciente.</td>
-        <td>PM</td>
-        <td>06/07/2022</td>
-        <td>20/07/2022</td>
-        <td> - </td>
-    </tr>
-    <tr>
-        <td>9</td>
-        <td>Se despliega la solución</td>
-        <td>De acuerdo a los requerimientos la solución se despliega en Azure.</td>
-        <td>PM</td>
-        <td>21/07/2022</td>
-        <td>31/07/2022</td>
-        <td> - </td>
-    </tr>
-    <tr>
-        <td>10</td>
-        <td>Se entrega al cliente</td>
-        <td>Se entrega la solución al cliente.</td>
-        <td>PM</td>
-        <td>01/08/2022</td>
-        <td>01/08/2022</td>
-        <td> - </td>
-    </tr>
-    <tr>
-        <td colspan=7><b>Diagrama de planeación</b></td>
-    </tr>
-    <tr>
-        <td colspan=7>
-            <img src="">
-            <p>
-                (Agregar imagen del diagrama de gantt)
-            </p>
-        </td>
-    </tr>
-</table>
-
-> __Nota:__ Las fechas de planeación establecidas en este documento son aproximadas y estarán sujetas a modificaciones que surjan por control de cambios u otros factores.
-
-## 5. Levantamiento del requerimiento detallado
-
-<table>
-    <tr>
-        <td colspan=4><b>Historias de usuario<b></td>
-    </tr>
-    <tr>
-        <th>No°</th>
-        <td>1</td>
-    </tr>
-    <tr>
-        <th>Título</th>
-        <td>Consulta sin intermediarios</td>
-    </tr>
-    <tr>
-        <th>Fecha</th>
-        <td>03/09/2021</td>
-    </tr>
-    <tr>
-        <th>Estimación</th>
-        <td>87</td>
-    </tr>
-    <tr>
-        <td colspan=4><b>Características / Funcionalidad</b></td>
-    </tr>
-    <tr>
-        <td colspan=4>A principios del mes de Septiembre de 2021 uno de nuestros clientes deseaba de manera urgente consultar el progreso del caso, al ser una alta hora de la noche las oficinas ya estaban cerradas por lo que nadie del personas pudo atender a su petición. Por lo que se me ocurrió que el despacho tuviera una plataforma para poder consultar el estátus de la demanda a cualquier hora del día.</td>
-    </tr>
-    <tr>
-        <td colspan=4><b>Razón / Resultado</b></td>
-    </tr>
-    <tr>
-        <td colspan=4>Con la finalidad de solventar el problema de que los clientes quieran consultar el status de su demanda sin importar día/hora se requiere automatizar este proceso. Además de esta forma se automatizaría la comunicación entre cliente y abogados.</td>
-    </tr>
-    <tr>
-        <td colspan=4><b>Criterios de aceptación</b></td>
-    </tr>
-    <tr>
-        <td colspan=1><b>N°</b></td>
-        <td colspan=1><b>Título</b></td>
-        <td colspan=1><b>Contexto</b></td>
-        <td colspan=1><b>Evento</b></td>
-    </tr>
-    <tr>
-        <td colspan=1>1</td>
-        <td colspan=1>Automatización de la comunucación</td>
-        <td colspan=1>El cliente se desea comunicar urgentemente con el abogado para conocer el progreso de la demanda.</td>
-        <td colspan=1>La plataforma enviará notificaciones al cliente cada que haya un nuevo hito dentro de su caso.</td>
-    </tr>
-</table>
-
-## 6. Diseño de la arquitectura de solución
-<table>
-    <tr>
-        <td><b>Fecha</b></td>
-        <td>15/03/2022</td>
-    </tr>
-    <tr>
-        <td colspan=2><b>Vista Lógica</b></td>
-    </tr>
-    <tr>
-        <td colspan=2>
-        </td>
-    </tr>
-    <tr>
-        <td colspan=2>Si utiliza conveniciones para diagramas Ad hoc, por favor describirlas aquí.</td>
-    </tr>
-    <tr>
-        <td colspan=2><b>Vista de Implementación</b></td>
-    </tr>
-    <tr>
-        <td colspan=2>Se puede utilizar alguno de los siguientes diagramas UML: Diagrama de componentes o diagrama de Paquetes</td>
-    </tr>
-    <tr>
-        <td colspan=2><b>Vista de Proceso</b></td>
-    </tr>
-    <tr>
-        <td colspan=2>Se puede utilizar alguno de los siguientes diagramas UML: Diagrama de actividades o de flujo </td>
-    </tr>
-    <tr>
-        <td colspan=2><b>Vista Física</b></td>
-    </tr>
-    <tr>
-        <td colspan=2>Se puede utilizar el diagrama UML de despliegue.</td>
-    </tr>
-    <tr>
-        <td colspan=2><b>Prototipos de Interfaces de Usuario</b></td>
-    </tr>
-    <tr>
-        <td colspan=2>Mockups o Bocetos de interfaces graficas para Front-End.</td>
-    </tr>
-    <tr>
-        <td colspan=2>Si utiliza conveniciones para diagramas Ad hoc, por favor describirlas aquí.</td>
     </tr>
 </table>
