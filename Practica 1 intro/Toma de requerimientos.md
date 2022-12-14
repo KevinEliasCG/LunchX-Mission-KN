@@ -96,7 +96,8 @@ Descripción:
     </tr>
     <tr>
         <td colspan=4>
-            <img src="">
+            <!-- <img src=""> -->
+            ---
             <p>(Diagrama del modelamiento del negocio)</p>
         </td>
     </tr>
