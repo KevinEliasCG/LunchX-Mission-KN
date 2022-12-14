@@ -67,7 +67,7 @@
       - Introducción a la programación FrontEnd
       <ul>
         <li><a href="#">Toma de requerimientos</a></li>
-        <li><a href="#">Crea tu buyer persona</a></li>
+        <li><a href="./Practica 1 intro/Buyer_personal.md">Crea tu buyer persona</a></li>
         <li><a href="#">Publico objetivo</a></li>
         <li><a href="#">Crea tu primer Wireframe UX</a></li>
         <li><a href="#">Ahora el UI</a></li>
