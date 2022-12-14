@@ -61,7 +61,6 @@
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Tabla de documentacion</summary>
-  <br /> 
   <ol>
     <li>
       <!--<a href="#">Introducción a la programación FrontEnd</a>-->
