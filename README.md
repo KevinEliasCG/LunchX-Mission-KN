@@ -46,6 +46,7 @@
      <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br /> -->
+    <br /> 
     <a href="https://github.com/othneildrew/Best-README-Template">Ver Demo</a>
     <!--
     ·
