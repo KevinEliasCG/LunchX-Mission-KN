@@ -68,7 +68,7 @@
       <ul>
         <li><a href="./Practica 1 intro/Toma_de_requerimientos.md">Toma de requerimientos</a></li>
         <li><a href="./Practica 1 intro/Buyer_personal.md">Crea tu buyer persona</a></li>
-        <li><a href="#">Publico objetivo</a></li>
+        <li><a href="./Practica 1 intro/Publico_objetivo.md">Publico objetivo</a></li>
         <li><a href="./Practica 1 intro/Wireframe.md">Crea tu primer Wireframe UX</a></li>
         <li><a href="#">Ahora el UI</a></li>
       </ul>
@@ -80,12 +80,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
   
 </details>
