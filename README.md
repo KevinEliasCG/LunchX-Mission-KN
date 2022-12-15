@@ -70,7 +70,7 @@
         <li><a href="./Practica 1 intro/Buyer_personal.md">Crea tu buyer persona</a></li>
         <li><a href="./Practica 1 intro/Publico_objetivo.md">Publico objetivo</a></li>
         <li><a href="./Practica 1 intro/Wireframe.md">Crea tu primer Wireframe UX</a></li>
-        <li><a href="#">Ahora el UI</a></li>
+        <li><a href="./Practica 1 intro/UI.md">Ahora el UI</a></li>
       </ul>
     </li>
     <li>
