@@ -3,7 +3,7 @@
 
 ## Inicio de Sesión
 <div style="text-align:center">
-    <img src="./img/in.jpg"/>
+    <img src="./img/ini.jpg"/>
 </div>
 
 <br>
