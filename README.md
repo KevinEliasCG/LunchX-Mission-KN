@@ -35,13 +35,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="img/logo.png" alt="Logo" width="80" height="80">
+    <img src="img/logo_abogabot.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Abogabot</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Proyecto Abogabot horientado a tramites legales.
     <!-- <br />
      <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
